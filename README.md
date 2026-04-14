@@ -46,3 +46,5 @@
 - `src/components/NewsBlock/` — компонент и его части (карточка, пагинация, skeleton, empty).
 - `src/hooks/useNews.ts` — загрузка и кэширование данных.
 - `src/types/news.ts` — типы данных.
+
+Демо-страница: https://sdek-psi.vercel.app
